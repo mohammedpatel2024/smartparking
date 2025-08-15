@@ -39,6 +39,37 @@ This system saves time, reduces traffic congestion, and improves parking managem
 - FPS overlay & performance toggles
 - Easy calibration tool for parking slot coordinates
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
 ---
 
 ## 🗂️ Project Structure
