@@ -16,14 +16,15 @@ This system saves time, reduces traffic congestion, and improves parking managem
 
 ## 📸 Demo
 
-*(Add a GIF or screenshot here)*  
-`/assets/demo.gif`
+<img width="956" height="539" alt="park1" src="https://github.com/user-attachments/assets/b56f761d-a5fd-4ff6-bfc8-310223742b8d" /><img width="959" height="539" alt="park2" src="https://github.com/user-attachments/assets/45ac1f76-e750-4122-9b90-0e255daa7792" />
+![WhatsApp Image 2025-08-15 at 12 19 53_9f0200c5](https://github.com/user-attachments/assets/98e95bce-4670-4e5f-b3fa-eae011bc097b)
+
 
 ---
 
 ## 🧠 How It Works
 
-1. Load a **video** or **webcam** feed.<img width="959" height="539" alt="park2" src="https://github.com/user-attachments/assets/e9eec04c-13dc-4104-a4ef-4570196fd0b8" />
+1. Load a **video** or **webcam** 
 
 
 2. Read pre-defined **parking slot coordinates** (rectangles/polygons).
